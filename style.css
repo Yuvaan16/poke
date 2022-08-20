@@ -13,13 +13,13 @@
 
   body {
     backdrop-filter: blur(20px);
-    /* background: #424242 url(bg.png); */
+    background: url(img/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpg.png);
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     background-color: var(--cultured);
     background-size: 100% 100%;
   }
-  p, nav {
+  nav {
     font-family: 'Flexo', sans-serif;
   }
   .primary {
@@ -63,7 +63,7 @@
 }
 .heading-2 {
     position: absolute;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Flexo', sans-serif;
     top: 50%;
     left: 50%;
     color: #ffffff;
@@ -108,7 +108,7 @@
   font-size: 1em;
   text-align: center;
   border-radius: 10px;
-  background-color: #ffffffd5;
+  background-color: #ffffffaa;
   /* aspect-ratio: 1 / 1; */
 }
 .grid-img {
