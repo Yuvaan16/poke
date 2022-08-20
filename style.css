@@ -12,8 +12,10 @@
   }  
 
   body {
-    backdrop-filter: blur(20px);
-    background: url(img/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpg.png);
+    backdrop-filter: blur(5px);
+    /* background-image: url(img/bg.jpg); */
+    /* background: url(img/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpg.png); */
+    /* background-image: url(img/cool-background.svg); */
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     background-color: var(--cultured);
