@@ -131,10 +131,12 @@
 h3{
   margin: 1%;
   font-size: 1em;
+  color: #ffffff;
 }
 ul {
   list-style: none;
   margin-top: 2%;
+  color: #ffffff;
   margin-bottom: 5%;
   padding: 0;
 }
@@ -143,13 +145,13 @@ ul {
   color: inherit;
 }
 .invalid {
-  color: #999999;
+  color: #cecece;
 }
 hr {
   margin: 1%;
   height: 2px; 
   border-width: 0; 
-  background-color: #3f3f3f; 
+  background-color: #c4c4c4; 
   width: 80%; 
   text-align: left; 
   margin-left: 0;
