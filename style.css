@@ -1,5 +1,5 @@
 :root {
---eerie-black: #141414ff;
+--eerie-black: #0e0e0e;
 --cultured: #f5f5f5ff;
 --crimson: #D7263D;
 --denim-blue: #535DCA;
@@ -18,7 +18,7 @@
     /* background-image: url(img/cool-background.svg); */
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    background-color: var(--cultured);
+    background-color: var(--eerie-black);
     background-size: 100% 100%;
   }
   nav {
@@ -32,6 +32,7 @@
     font-size: 1.5em;
     font-weight: 300;
     letter-spacing: 5px;
+    color: white;
   }
   /* carousel */
   .carousel {
@@ -110,6 +111,15 @@
   text-align: center;
   border-radius: 10px;
   background-color: #ffffffaa;
+  /* aspect-ratio: 1 / 1; */
+}
+.grid-item1 {
+  box-shadow: #141414ff;
+  padding: 20px;
+  font-size: 1em;
+  text-align: center;
+  border-radius: 10px;
+  backdrop-filter: blur(20px);
   /* aspect-ratio: 1 / 1; */
 }
 .grid-img {
